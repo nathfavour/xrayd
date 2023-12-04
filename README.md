@@ -1,6 +1,6 @@
 # XRAYD
 
-A wrapper over (AfterShip/email-verifier)[github.com/AfterShip/email-verifier] email verifier for ease of use
+A wrapper over [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) email verifier for ease of use
 
 ## QUICK SETUP
 
